@@ -1,0 +1,44 @@
+body{
+    height: 220vh;
+    background: linear-gradient(125deg,#52b0c7,#a563be,#52b0c7);
+}
+h1{
+    color: gold;
+    font-style: italic;
+    text-shadow: 2px 2px black;
+}
+h2{
+    color:red;
+    font-size: 25px;
+    font-family: Arial 'Franklin Gothic Medium';
+    font-style: italic;
+}
+h3{
+    color: white;
+}
+h4{
+    color: lime;
+    font-size: medium;
+}
+h5{
+    color: thistle;
+    font-size: 25px;
+    font-family: 'Arial Narrow', Arial, sans-serif;
+}
+p{
+    color: black;
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.instagram i {
+    color: #C13584;
+}
+.facebook i {
+    color:#2d61ca ;
+}
+.whatsapp i {
+    color: #2bd368;
+}
+.linkedin i {
+    color: #044fe6;
+}
